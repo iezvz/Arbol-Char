@@ -1,0 +1,66 @@
+[
+    {
+      "Matricula": "AAA111111",
+      "Nombre": "Juan",
+      "Paterno": "Pérez",
+      "Materno": "García",
+      "FechaNacimiento": "1990-01-01"
+    },
+    {
+      "Matricula": "BBB222222",
+      "Nombre": "María",
+      "Paterno": "López",
+      "Materno": "Rojas",
+      "FechaNacimiento": "1991-02-02"
+    },
+    {
+      "Matricula": "CCC333333",
+      "Nombre": "Pedro",
+      "Paterno": "González",
+      "Materno": "Martínez",
+      "FechaNacimiento": "1992-03-03"
+    },
+    {
+      "Matricula": "DDD444444",
+      "Nombre": "Ana",
+      "Paterno": "Sánchez",
+      "Materno": "Pérez",
+      "FechaNacimiento": "1993-04-04"
+    },
+    {
+      "Matricula": "EEE555555",
+      "Nombre": "José",
+      "Paterno": "Rodríguez",
+      "Materno": "García",
+      "FechaNacimiento": "1994-05-05"
+    },
+    {
+      "Matricula": "FFF666666",
+      "Nombre": "Luisa",
+      "Paterno": "López",
+      "Materno": "Rojas",
+      "FechaNacimiento": "1995-06-06"
+    },
+    {
+      "Matricula": "GGG777777",
+      "Nombre": "Carlos",
+      "Paterno": "González",
+      "Materno": "Martínez",
+      "FechaNacimiento": "1996-07-07"
+    },
+    {
+      "Matricula": "HHH888888",
+      "Nombre": "Laura",
+      "Paterno": "Sánchez",
+      "Materno": "Pérez",
+      "FechaNacimiento": "1997-08-08"
+    },
+    {
+      "Matricula": "III999999",
+      "Nombre": "Antonio",
+      "Paterno": "Rodríguez",
+      "Materno": "García",
+      "FechaNacimiento": "1998-09-09"
+    }
+  ]
+  
